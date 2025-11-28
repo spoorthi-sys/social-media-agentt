@@ -1,20 +1,20 @@
-# Project Title
+# Social Media Agent
 
-A short introduction about your project. Explain what it does in 2–3 lines.
+This AI Social Media Content Agent automates the creation of captions, post ideas, and content calendars for any niche. It simplifies the content creation process and supports creators in maintaining consistent online engagement.
 
 ---
 
 ## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
+- AI-Generated Captions
+- PostIdeas Generator
+- Fast AI Responses
 
 ---
 
 ## 🛠 Tech Stack
-- Programming Language:
-- Framework:
-- Tools Used:
+- Programming Language: Python
+- Framework:Streamlit,OpenAI,python-dotenv
+- Tools Used:GitHub,Streamlit Cloud,VS Code
 
 ---
 
@@ -23,3 +23,4 @@ A short introduction about your project. Explain what it does in 2–3 lines.
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/your-repo.git
+
